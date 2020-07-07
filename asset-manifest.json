@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-404-page_not_found/static/css/main.0901db4a.chunk.css",
+    "main.js": "/react-404-page_not_found/static/js/main.8b334bc0.chunk.js",
+    "main.js.map": "/react-404-page_not_found/static/js/main.8b334bc0.chunk.js.map",
+    "runtime-main.js": "/react-404-page_not_found/static/js/runtime-main.4a0f6fa0.js",
+    "runtime-main.js.map": "/react-404-page_not_found/static/js/runtime-main.4a0f6fa0.js.map",
+    "static/js/2.f783d0dc.chunk.js": "/react-404-page_not_found/static/js/2.f783d0dc.chunk.js",
+    "static/js/2.f783d0dc.chunk.js.map": "/react-404-page_not_found/static/js/2.f783d0dc.chunk.js.map",
+    "index.html": "/react-404-page_not_found/index.html",
+    "precache-manifest.4abbc6bcf1666660c0cb8213b11082cf.js": "/react-404-page_not_found/precache-manifest.4abbc6bcf1666660c0cb8213b11082cf.js",
+    "service-worker.js": "/react-404-page_not_found/service-worker.js",
+    "static/css/main.0901db4a.chunk.css.map": "/react-404-page_not_found/static/css/main.0901db4a.chunk.css.map",
+    "static/js/2.f783d0dc.chunk.js.LICENSE.txt": "/react-404-page_not_found/static/js/2.f783d0dc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-404-page_not_found/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a0f6fa0.js",
+    "static/js/2.f783d0dc.chunk.js",
+    "static/css/main.0901db4a.chunk.css",
+    "static/js/main.8b334bc0.chunk.js"
+  ]
+}
